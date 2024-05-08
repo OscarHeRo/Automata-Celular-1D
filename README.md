@@ -1,0 +1,1 @@
+Esta es una implementación en python de las 256 reglas de los automatas celulares de wolfram 
