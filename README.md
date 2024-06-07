@@ -14,4 +14,5 @@ El programa muestra 50 generaciones del autómata celular. El estado inicial es 
 
 ## Autor
 
-Este programa fue creado por Hernández Rodríguez Oscr David.
+Hernández Rodríguez Oscr David.
+420002945
